@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats Card](github-readme-stats-drab-omega-39.vercel.app&count_private=true)
+![GitHub Stats](github-readme-stats-drab-omega-39.vercel.app/api?username=sunak-tech&count_private=true)
 ![Top Languages Card (Compact layout)](github-readme-stats-drab-omega-39.vercel.app&layout=compact)
 
