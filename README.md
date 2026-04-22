@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=sunak-tech&count_private=true)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=zizi4n5&repo=homebridge-switchbot-for-mac)
+
