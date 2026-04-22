@@ -18,11 +18,6 @@
 - ⚙️ Building full-stack apps with **Go + Next.js + PostgreSQL**
 - 📈 Also into stock market analysis & infra automation
 
-***
-
-## 🛠️ Tech Stack
-
-[
 
 ***
 
