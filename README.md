@@ -4,7 +4,6 @@
 
 
 <!-- Typing SVG -->
-[
 
 </div>
 
