@@ -31,7 +31,6 @@
 
 <div align="center">
 
-[
 
 </div>
 
