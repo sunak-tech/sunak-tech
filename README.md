@@ -24,8 +24,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-drab-omega-39.vercel.app/api?username=sunak-tech&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f98a3&icon_color=4f98a3&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats-drab-omega-39.vercel.app/api/top-langs/?username=sunak-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f98a3&text_color=c9d1d9" width="40%" />
+<img src="https://github-stats-extended-frontend-ma16.vercel.app/api?username=sunak-tech&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f98a3&icon_color=4f98a3&text_color=c9d1d9" width="48%" />
+<img src="https://github-stats-extended-frontend-ma16.vercel.app/api/top-langs/?username=sunak-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f98a3&text_color=c9d1d9" width="40%" />
 
 </div>
 
